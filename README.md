@@ -26,7 +26,3 @@ The simple code to create `Calculator-UI` using HTML & CSS.
 
 ## *Author Name*
 [Vikrant](https://github.com/thevkrant)
-
-![Screenshot (174)]()
-
-![Screenshot (175)]()
