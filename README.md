@@ -18,7 +18,7 @@ The simple code to create `Calculator-UI` using HTML & CSS.
 </details>
 <details><summary><b>Output 2</b></summary>
   <p align="center">
-    <a href="Outputs/output 2.png"><img src="https://user-images.githubusercontent.com/85709371/148973411-526165d5-6bfa-4730-9a86-034ae05a759e.png" alt="output"></a>
+    <a href="Outputs/output 2.png"><img src="https://user-images.githubusercontent.com/85709371/148983360-a447e8a1-334d-4f16-9bd6-a473b9620048.png" alt="output"></a>
   </p>
 </details>
 
@@ -29,4 +29,4 @@ The simple code to create `Calculator-UI` using HTML & CSS.
 
 ![Screenshot (174)]()
 
-![Screenshot (175)](https://user-images.githubusercontent.com/85709371/148983360-a447e8a1-334d-4f16-9bd6-a473b9620048.png)
+![Screenshot (175)]()
